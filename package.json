@@ -20,5 +20,19 @@
     "eslint-plugin-react": "^7.14.2",
     "eslint-plugin-react-native": "^3.7.0"
   },
-  "private": true
+  "private": true,
+  "name": "pylon",
+  "description": "a cross-platform React-Native mobile app designed to locate ADA accessible entrances on campus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lefac/Pylon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4lefac/Pylon/issues"
+  },
+  "homepage": "https://github.com/4lefac/Pylon#readme"
 }
