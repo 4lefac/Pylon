@@ -26,5 +26,6 @@ yarn-error.log*
 # backups
 *.bak
 
-# gradle
+# android
 .gradle
+android/app/build
